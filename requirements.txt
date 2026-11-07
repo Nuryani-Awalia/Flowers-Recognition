@@ -4,5 +4,6 @@ matplotlib
 seaborn
 scikit-learn
 streamlit
-plotly
-joblib
+tensorflow
+numpy
+pillow
